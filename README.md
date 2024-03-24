@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hello World! I'm Aaysha 👋
 
 ## About Me ℹ️
