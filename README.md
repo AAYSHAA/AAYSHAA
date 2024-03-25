@@ -11,31 +11,38 @@ If you know of any exciting opportunities or would like to discuss potential col
 
 ## 📄 PDF CV
 
-You can view my CV [here](https://github.com/AAYSHAA/AAYSHA/files/14733808/AAYSHA.FAZAL.MOHAMED.pdf).
+You can view my CV [here](https://github.com/AAYSHAA/AAYSHAA/files/14745997/Aaysha.Fazal.Mohamed.4.pdf).
 
 ![Fun GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGFoeGF4NW1wNDZoMWoxOHc4b2lpbmx5bmxpZWJ1bzE2bHpta3J4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif)
 
 ## 🌱 What I'm Learning
 
 Currently, I'm learning about:
-- [Topic 1](link_to_topic_1)
-- [Topic 2](link_to_topic_2)
+- Machine Learning
+- Data Structures and Algorithm
+- Flutter
+- Firebase
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AAYSHAA&show_icons=true&theme=radical&count_private=true&hide=issues,contribs)
-
-## 💼 Skills
-
-- Language/Framework/Tool 1
-- Language/Framework/Tool 2
-- Language/Framework/Tool 3
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AAYSHAA&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AAYSHAA&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AAYSHAA&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🛠️ Tools & Technologies
 
-- Tool/Technology 1
-- Tool/Technology 2
-- Tool/Technology 3
+- JAVA OOP
+- Python
+- Flutter
+- Firebase
+- MYSQL
+- HTML
+- CSS
+- Jvascript
+- Figma
+- Canva
+- Content Writting
+- Digital Marketing
 
 ## 🎨 Social Icons
 
@@ -49,23 +56,17 @@ Connect with me:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AAYSHAA)](https://git.io/streak-stats)
 
 
-## 🌟 GitHub Skyline
+- 🤔 I’m looking for help with Machine Learning, Integration of flutter and unity
+- 💬 Ask me about [!NGL](https://ngl.link/dentr)
+- 📫 How to reach me [Linkdin](https://www.linkedin.com/in/aayshafazalmohamed/)
+- ⚡ Fun fact: Passionate about imparting knowledge, I find joy in the fluid dance of brush and color, creating art that speaks. Books are my sanctuary, a world where I lose and find myself in the turn of each page.
 
-![GitHub Skyline](https://skyline.github.com/AAYSHA/0)
 
+## 📄 Find my fun reports here!
+- Machine Learning [Here](https://github.com/AAYSHAA/AAYSHAA/files/14746105/4COSC008C_Report_w1956175_.Aaysha.MohamedTCS.pdf)
 
-## 📝 License
+- Software Engineering Principles and Practice
+  [Here 1](https://github.com/AAYSHAA/AAYSHAA/files/14746144/W1956175_Aaysha.Fazal.Mohamed_Individual.Report_SEPP1.pdf)
+  [Here 2](https://github.com/AAYSHAA/AAYSHAA/files/14746123/w1956175_Aaysha_Fazal_Mohamed_CW2.pdf)
 
-This project is licensed under the [MIT License](LICENSE).
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Database Management Systems](https://github.com/AAYSHAA/AAYSHAA/files/14746133/Aaysha_Fazal_Mohamed_w1956175DBMS.pdf)
