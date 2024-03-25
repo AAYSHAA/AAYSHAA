@@ -69,4 +69,7 @@ Connect with me:
   [Here 1](https://github.com/AAYSHAA/AAYSHAA/files/14746144/W1956175_Aaysha.Fazal.Mohamed_Individual.Report_SEPP1.pdf)
   [Here 2](https://github.com/AAYSHAA/AAYSHAA/files/14746123/w1956175_Aaysha_Fazal_Mohamed_CW2.pdf)
 
-- [Database Management Systems](https://github.com/AAYSHAA/AAYSHAA/files/14746133/Aaysha_Fazal_Mohamed_w1956175DBMS.pdf)
+- Database Management Systems [Here](https://github.com/AAYSHAA/AAYSHAA/files/14746133/Aaysha_Fazal_Mohamed_w1956175DBMS.pdf)
+
+
+[![](https://visitcount.itsvg.in/api?id=AAYSHAA&icon=0&color=1)](https://visitcount.itsvg.in)
