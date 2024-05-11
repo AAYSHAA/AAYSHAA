@@ -1,4 +1,4 @@
-[Aaysha_Mohamed_w1956175_20221493.pdf](https://github.com/AAYSHAA/AAYSHAA/files/15283291/Aaysha_Mohamed_w1956175_20221493.pdf)# Hello World! I'm Aaysha 👋
+# Hello World! I'm Aaysha 👋
 
 ## About Me ℹ️
 
