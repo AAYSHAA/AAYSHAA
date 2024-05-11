@@ -1,4 +1,4 @@
-# Hello World! I'm Aaysha 👋
+[Aaysha_Mohamed_w1956175_20221493.pdf](https://github.com/AAYSHAA/AAYSHAA/files/15283291/Aaysha_Mohamed_w1956175_20221493.pdf)# Hello World! I'm Aaysha 👋
 
 ## About Me ℹ️
 
@@ -63,6 +63,7 @@ Connect with me:
 
 
 ## 📄 Find my fun reports here!
+
 - Machine Learning [Here](https://github.com/AAYSHAA/AAYSHAA/files/14746105/4COSC008C_Report_w1956175_.Aaysha.MohamedTCS.pdf)
 
 - Software Engineering Principles and Practice
@@ -70,6 +71,14 @@ Connect with me:
   [Here 2](https://github.com/AAYSHAA/AAYSHAA/files/14746123/w1956175_Aaysha_Fazal_Mohamed_CW2.pdf)
 
 - Database Management Systems [Here](https://github.com/AAYSHAA/AAYSHAA/files/14746133/Aaysha_Fazal_Mohamed_w1956175DBMS.pdf)
+  
+- DS and Algorithm [Here](https://github.com/AAYSHAA/AAYSHAA/files/15283292/Aaysha_Mohamed_w1956175_20221493.pdf)
+
+  
+- ML and DM [Here](https://github.com/AAYSHAA/AAYSHAA/files/15283284/ML_Report_W1956175_20221493_Aaysha_Mohamed.pdf)
+
+
+
 
 
 [![](https://visitcount.itsvg.in/api?id=AAYSHAA&icon=0&color=1)](https://visitcount.itsvg.in)
