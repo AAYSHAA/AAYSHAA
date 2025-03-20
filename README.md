@@ -20,7 +20,8 @@ You can view my CV [here](https://github.com/AAYSHAA/AAYSHAA/files/14745997/Aays
 Currently, I'm learning about:
 - Machine Learning
 - Data Structures and Algorithm
-- Flutter
+- React
+- So, React Native JS
 - Firebase
 
 ## 📊 GitHub Stats
@@ -79,6 +80,7 @@ Connect with me:
 
 
 
+[![Visitor Count](https://visitcount.itsvg.in/api?id=AAYSHAA&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
 [![](https://visitcount.itsvg.in/api?id=AAYSHAA&icon=0&color=1)](https://visitcount.itsvg.in)
