@@ -64,7 +64,7 @@ Connect with me:
 
 
 - 🤔 I’m looking for help with Machine Learning, Integration of flutter and unity
-- 💬 Ask me about [!NGL]()
+- 💬 Ask me about [!NGL](https://ngl.link/youarebored.xom)
 - 📫 How to reach me [Linkdin](https://www.linkedin.com/in/aayshafazalmohamed/)
 - ⚡ Fun fact: Passionate about imparting knowledge, I find joy in the fluid dance of brush and color, creating art that speaks. Books are my sanctuary, a world where I lose and find myself in the turn of each page.
 
