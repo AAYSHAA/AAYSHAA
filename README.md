@@ -22,7 +22,7 @@ Currently, I'm learning about:
 - Data Structures and Algorithm
 - Transformers
 - Cybersecurity
-- Netowrk
+- Network
 - Concurrent programming 
 - Firebase
 
