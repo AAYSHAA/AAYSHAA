@@ -20,8 +20,10 @@ You can view my CV [here](https://github.com/user-attachments/files/20869789/Aay
 Currently, I'm learning about:
 - Machine Learning
 - Data Structures and Algorithm
-- React
-- So, React Native JS
+- Transformers
+- Cybersecurity
+- Netowrk
+- Concurrent programming 
 - Firebase
 
 ## 📊 GitHub Stats
@@ -40,11 +42,14 @@ Currently, I'm learning about:
 - MYSQL
 - HTML
 - CSS
-- Jvascript
+- Javascript
 - Figma
 - Canva
 - Content Writting
 - Digital Marketing
+- ASP .NET MVC
+- c#(Basic)
+- c++(Basic)
 
 ## 🎨 Social Icons
 
