@@ -11,7 +11,7 @@ If you know of any exciting opportunities or would like to discuss potential col
 
 ## 📄 PDF CV
 
-You can view my CV [here](https://github.com/AAYSHAA/AAYSHAA/files/14745997/Aaysha.Fazal.Mohamed.4.pdf).
+You can view my CV [here](https://github.com/user-attachments/files/20869789/Aaysha.Mohamed.pdf).
 
 ![Fun GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGFoeGF4NW1wNDZoMWoxOHc4b2lpbmx5bmxpZWJ1bzE2bHpta3J4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif)
 
@@ -25,6 +25,7 @@ Currently, I'm learning about:
 - Firebase
 
 ## 📊 GitHub Stats
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AAYSHAA&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AAYSHAA&theme=algolia&hide_border=false)<br/>
