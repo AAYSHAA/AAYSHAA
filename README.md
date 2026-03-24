@@ -2,7 +2,10 @@
 
 ## About Me ℹ️
 
-Hey there! I'm Aaysha Fazal Mohamed, a software engineering enthusiast currently seeking opportunities as a Software Engineering Intern. I'm passionate about building innovative solutions and eager to learn and grow in a professional environment. Currently pursuing Software Engineering at the Informatics Institute of Technology (IIT), Sri Lanka, affiliated with the University of Westminster, UK.
+Final-year Software Engineering undergraduate currently working as an Associate Software Engineer in the banking sector, with a strong focus on software development, 
+machine learning, IoT systems, and frontend design. Experienced in full-stack development, technical documentation, and IoT-based projects. Passionate about designing and building smart, user-centred, and scalable software solutions.
+
+Currently pursuing Software Engineering at the Informatics Institute of Technology (IIT), Sri Lanka, affiliated with the University of Westminster, UK.
 
 ## 🚀 What I'm Looking For
 
@@ -11,7 +14,8 @@ If you know of any exciting opportunities or would like to discuss potential col
 
 ## 📄 PDF CV
 
-You can view my CV [here](https://github.com/user-attachments/files/20869789/Aaysha.Mohamed.pdf).
+You can view my CV [here](https://github.com/user-attachments/files/26199473/aayshaaaa.cv.pdf).
+
 
 ![Fun GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGFoeGF4NW1wNDZoMWoxOHc4b2lpbmx5bmxpZWJ1bzE2bHpta3J4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif)
 
